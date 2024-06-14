@@ -1,0 +1,5 @@
+Prerequisites
+An AWS account with appropriate permissions.
+AWS CLI configured on your EC2 instance.
+Docker installed on your EC2 instance.
+Terraform installed on your EC2 instance.
